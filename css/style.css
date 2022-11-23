@@ -1,0 +1,444 @@
+body{
+
+    background-color: #292929;
+    
+}
+
+
+
+.bg-nav-own {
+    background-color: #F5C4EE44;
+}
+
+.hero-img {
+    height:100vh;
+    width: 100%;
+    background-image: url(../img/audio-720589_1920.jpg);
+    margin-top: -72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+
+}
+.pictext{ 
+   justify-content: center;
+   color: #292929;
+   font-size: 1cm;
+   
+   background-color: #f7daf675;
+   font-family: Hoefler Text;
+
+   border-radius: 35px;
+
+   padding: 10px 60px 0 60px;
+   margin-bottom: 20px;
+  
+
+   
+   
+   
+
+
+}
+
+ 
+
+.navbar-nav {
+    gap: 20px !important;
+}
+.navbar-collapse {
+    width: 100%;
+    justify-content: center;
+    border-bottom: #292929;
+    border-bottom-style: double;
+
+}
+.nav-link {
+    font-size:18px;
+    background-color: rgb(70, 63, 63);
+    border: 1px solid #ededed;
+    border-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    height: 35px;
+    padding:0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    
+    font-family: Hoefler Text;
+    color: #ededed;
+    margin: 10px;
+    
+    
+    
+
+    
+  
+
+
+}
+
+
+.lyst-knap {
+    font-size: 50px;
+    background-color: #33333300;
+    border:none;
+    font-family: hoefler text;
+    font-variant: small-caps;
+    margin-top: 10px;
+    box-shadow: #292929;
+    
+   
+
+
+}
+
+
+
+
+
+.text-party {
+    background-color: #A898A6;
+     display: flex;
+     width: 100%;
+     justify-content: center;
+     color: #29292990;
+     
+     font-family: Hoefler Text;
+     font-style: unset;
+     border-top-style: ridge;
+     border-bottom-style: double;
+     border-color: #292929;
+     padding: 20px 0 0 0;
+     font-size: xx-small;
+     
+    }
+    .text-party h1{
+        font-size:xx-large;
+        font-variant: small-caps;
+        font-family: hoefler text;
+       
+    }
+
+
+    .container1 {
+
+       background-color: #292929;
+       
+
+    }
+    .btn {
+
+  
+    color: rgb(227, 214, 236);
+    background-color: #7C687C;
+    border-radius: 35px;
+    font-size: 20px;
+
+    margin: 200px 0 0 200px;
+    border-style: dashed;
+    border-color: #ededed;
+    font-family: hoefler text;
+font-size: xx-large;
+font-style: italic;
+
+
+   
+    }
+
+    .p-3{
+        font-style: italic;
+        font-style: bold;
+    }
+
+    
+    
+
+   
+    
+  
+
+    .box1 {
+        margin:30px 0 30px 130px;
+        color: #292929;
+        background-color: #ededed;
+        border-radius: 20px ;
+        border-color: #7C687C;
+        border-style: double;
+        
+        
+    
+
+     
+
+
+        
+  
+    }
+
+    .box1 p1{
+
+        margin: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: larger;
+        font-family: hoefler text;
+
+
+
+    }
+
+    .box1 table{
+        font-family: hoefler text;
+       
+       
+      
+   
+    }
+
+   
+
+    
+  
+
+   
+
+
+
+    /*Billede slide*/
+    .carousel-inner{
+        border-radius: 80px;
+        margin: 30px 0 0 10px;
+ border: #7C687C;
+border-style: groove;
+    }
+
+    .carousel-control-prev{
+/*         margin: 0 0 0 100px;
+ */    }
+  
+
+   /*SoMe*/
+
+    .icon {
+        margin: 0 0 0 130px;
+        margin-inline: auto;
+    }
+        
+    
+    
+    .icon a{ 
+        display: flex;
+        justify-content: center;
+        align-content: center;
+           
+    }
+
+    .icon p{
+        
+        color: #e9d6e9;
+        font-family: hoefler text;
+        font-size: xx-large;
+
+    }
+
+
+/* adresse */
+
+
+    .icon4 a {
+        display: flex;
+        justify-content: center;
+
+
+        
+        
+       
+       
+       
+    }
+
+  
+
+   
+
+.mapping p{
+    color: #A898A6;
+    font-family: hoefler text;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.div1{
+    margin: 10px 0 0 30px;
+}
+
+.tuborg a{
+    background-color: #7C687C;
+
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.kontakt p1{
+    color: #e9d6e9;
+    font-size:xx-large;
+    font-family: hoefler text;
+}
+.kontakt p{
+    color: #e9d6e9;
+    font-family: hoefler text;
+
+}
+.bund {
+    background-color: #7C687C;
+    display: flex;
+    justify-items: center;
+    align-items: display;
+
+
+}
+
+.kontakt{
+    padding:20px;
+    font-family: hoefler text;
+    font-size: large;
+}
+
+.kontakt a{
+    font-family: hoefler text;
+    color: #ededed;
+
+}
+
+.tuborg{
+    padding:25px;
+   
+}
+
+#tuborg-box {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+.info{
+ 
+ display: flex;
+ justify-items: center;
+ align-items: center;
+
+    
+}
+
+
+.info_box {
+    width:250px;
+    margin: 0 auto;
+}
+
+
+.info a{
+
+    font-family: hoefler text;
+    color: #ededed;
+    margin: 0 5px 5px 5px;
+   
+
+}
+
+
+
+
+
+
+.kontaktrow {
+    background-color: #7C687C;
+}
+      
+
+      .lyst-knap-mobile {
+        display: none;
+      }
+
+      .kontakt {
+     
+      }
+
+
+      @media only screen and (max-width: 860px) {
+        .box1 {
+            margin:0px 0 0 2%;
+            width:95%;
+            
+        }
+        .lyst-knap {
+            display: none;
+        }
+        .lyst-knap-mobile {
+            display: block;
+            position: absolute;
+            left:35%;
+            height: 35px;
+           
+            width: 150px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .hero-img{
+            justify-content: center;
+            display: flex;
+            align-items: center;
+        }
+
+        .pictext{
+            justify-content: center;
+            display: flex;
+            align-items: center;
+            height: 130px;
+            width: 210px;
+            left: 35%;
+            
+            text-align: center;
+            font-size: xx-large;
+            
+        }
+        .icon{
+          padding:   none;
+           
+
+     
+       
+
+      }
+
+
+      .icon4 a img{
+        
+        
+
+
+      }
+
+      .btn{
+        margin: 50px 0 10px 200px;
+        font-size: medium;
+        padding: 10px 20px 10px 20px;
+
+      }
+
+     
+
+  
+
+
+}
